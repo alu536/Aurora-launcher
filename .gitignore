@@ -1,0 +1,9 @@
+node_modules/
+dist/
+output/
+src-tauri/target/
+src-tauri/gen/
+build_log.txt
+*.corrupt.json
+release-keys/
+release-output/
